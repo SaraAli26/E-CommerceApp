@@ -1,4 +1,4 @@
-# minimaldesign1
+# Mobile App USing Flutter (E-commerce App)
 
 A new Flutter application.
 
