@@ -237,6 +237,8 @@ class _DetailsPageState extends State<DetailsPage> {
               ),
 
             ),
+
+            //Comment
             height: 140.0,
             width: 140.0,
             child: Column(
@@ -253,6 +255,7 @@ class _DetailsPageState extends State<DetailsPage> {
                           color: cardTitle == selectedCard ? Colors.white : Colors.grey.withOpacity(0.7),
                         )),
                   ),
+
                   Padding(
                     padding: const EdgeInsets.only(left: 15.0, bottom: 13.0),
                     child: Column(
